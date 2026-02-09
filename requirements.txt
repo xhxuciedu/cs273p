@@ -1,0 +1,6 @@
+matplotlib
+ipykernel
+nbformat
+torch
+torchvision
+wandb
